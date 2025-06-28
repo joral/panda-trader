@@ -1,0 +1,15 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environments
+env/
+venv/
+ENV/
+.env/
+.venv/
+
+# Rust artifacts
+target/
+
